@@ -14,9 +14,7 @@ for (int i = 0; i < str_in.Length; i++)
     {
         count++;
     }
-
 }
-
 string[] str_out=new string[count];
 for (int i = 0, j=0; i < str_in.Length; i++)
 {
